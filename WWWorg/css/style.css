@@ -1,6 +1,5 @@
 /*
-	Awesome Responsive Template
-	templatestock.co
+
 */
 
 
@@ -38,7 +37,7 @@ body
 .header-div
 {
     height: 550px;
-    background-image: linear-gradient(to bottom, #00539cff, #2f3c7e);
+    background-image: linear-gradient(to bottom, #202653, #0a1125);
 }
 
 .logo-div a
@@ -178,7 +177,7 @@ body
 /* Call Action */
 .call-action-bg
 {
-    background-image: linear-gradient(to bottom, #00539cff, #2f3c7e);
+    background-image: linear-gradient(to bottom, #202653, #0a1125);
     margin:60px 0px; 
     text-align: center;
     color:#fff;
@@ -194,7 +193,7 @@ body
 }
 
 .call-action-color {
-    background-image: linear-gradient(to bottom, #00539cff, #2f3c7e);
+    background-image: linear-gradient(to bottom, #202653, #0a1125);
     margin: 60px 0px;
     text-align: center;
     padding-bottom: 50px;
@@ -440,7 +439,7 @@ blockquote::before {
 
 .contact{
     font-family: 'Roboto' !important;
-    background-image: linear-gradient(to bottom, #436e70, #5f9ea0);    
+    background-image: linear-gradient(to bottom, #202653, #0a1125);    
     display: flex;
 }
 
@@ -692,7 +691,7 @@ body
 .header-div
 {
 	height: 550px;
-    background-image: linear-gradient(to bottom, #436e70, #5f9ea0);
+    background-image: linear-gradient(to bottom, #202653, #0a1125);
 }
 
 .logo-div a
@@ -824,7 +823,7 @@ body
 /* Call Action */
 .call-action-bg
 {
-	background-image: linear-gradient(to bottom, #436e70, #5f9ea0);
+	background-image: linear-gradient(to bottom, #202653, #0a1125);
 	margin:60px 0px; 
     text-align: center;
     padding-bottom: 50px;
@@ -835,7 +834,7 @@ body
 }
 
 .call-action-color {
-    background-image: linear-gradient(to bottom, #436e70, #5f9ea0);
+    background-image: linear-gradient(to bottom, #202653, #0a1125);
     margin: 60px 0px;
     text-align: center;
     padding-bottom: 50px;
