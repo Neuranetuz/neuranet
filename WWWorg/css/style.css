@@ -54,10 +54,9 @@ body
     border-radius: 3px;
     padding-top: 10px;
     padding-bottom: 10px;
-}
-.navbar-nav li a{
 	color: #fff;
 }
+
 .navbar-nav li:nth-last-child(1) a:hover{
 	background-color: limegreen;
 	color: black;
