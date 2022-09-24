@@ -42,11 +42,14 @@ body
 
 .logo-div a
 {
-    color: #0c1424 !important;
+    color: limegreen !important;
     font-size: 40px;
     margin-top: 5px;
 }
 
+.navbar-nav{
+	color: #fff;
+}
 .navbar-nav li:nth-last-child(1) a
 {
     background: #333;
