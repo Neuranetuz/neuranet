@@ -42,14 +42,14 @@ body
 
 .logo-div a
 {
-    color: #cc0000 !important;
+    color: #fff !important;
     font-size: 40px;
     margin-top: 5px;
 }
 
 .navbar-nav li:nth-last-child(1) a
 {
-    background: #eea47fff;
+    background: #333;
     border: 1px solid #fff;
     border-radius: 4px;
     padding-top: 10px;
