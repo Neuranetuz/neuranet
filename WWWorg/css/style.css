@@ -42,7 +42,7 @@ body
 
 .logo-div a
 {
-    color: limegreen !important;
+    color: limegreen;
     font-size: 40px;
     margin-top: 5px;
 }
@@ -54,7 +54,7 @@ body
     border-radius: 3px;
     padding-top: 10px;
     padding-bottom: 10px;
-	color: #fff;
+	text-color: white;
 }
 
 .navbar-nav li:nth-last-child(1) a:hover{
