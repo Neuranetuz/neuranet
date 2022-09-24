@@ -56,9 +56,6 @@ body
     padding-bottom: 10px;
 }
 
-.navbar-nav li:nth-last-child() a{
-color: white;
-}
 .navbar-nav li:nth-last-child(1) a:hover{
 	background-color: limegreen;
 	color: black;
@@ -67,6 +64,7 @@ color: white;
 .top-right-menu-ul
 {
 	margin-top: 10px;
+	color: white;
 }
 
 .slide-text
