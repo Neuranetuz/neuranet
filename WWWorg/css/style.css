@@ -571,7 +571,7 @@ footer {
     line-height: 50px;
 }
 .footer-social i:hover{
-	box-shadow: limegreen;
+	box-shadow: 10px 10px limegreen;
 	/*background-color: limegreen;*/
 	color: black;
 }
