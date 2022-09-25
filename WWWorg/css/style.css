@@ -570,8 +570,11 @@ footer {
     font-size: 30px;
     line-height: 50px;
 }
-.footer-social i:hover{
+.footer-social i:hover,
+.footer-social i:focus
+{
 	color: limegreen;
+	transform: margin(10px);
 
 }
 
