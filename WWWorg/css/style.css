@@ -570,6 +570,11 @@ footer {
     font-size: 30px;
     line-height: 50px;
 }
+.footer-social .col-sm-12 .fa:hover{
+	background-color: limegreen;
+	color: black;
+}
+
 
 .footer-social  a
 {
