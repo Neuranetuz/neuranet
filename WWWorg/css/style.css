@@ -9,6 +9,9 @@ body
 {
 	font-family: 'Roboto' !important;
 	overflow-x: hidden;
+	background-image: url(../images/nasa.jpg);
+	background-attachment: fixed;
+	background-position: center;
 }
 
 .main_heading {
