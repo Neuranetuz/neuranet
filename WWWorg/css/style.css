@@ -9,6 +9,8 @@ body
 {
 	font-family: 'Roboto' !important;
 	overflow-x: hidden;
+	background-image: url(../images/bg.jpeg);
+	background-attachment: fixed;
 	
 }
 
