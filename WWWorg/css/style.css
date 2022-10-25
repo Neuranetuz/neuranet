@@ -38,7 +38,7 @@ body
 .header-div
 {
     height: 550px;
-    background-image: linear-gradient(to bottom, #202653, #0a1125);
+    background-image: #2f3c7e;
 }
 
 .logo-div a
@@ -184,7 +184,7 @@ body
 /* Call Action */
 .call-action-bg
 {
-    background-image: linear-gradient(to bottom, #202653, #0a1125);
+    background-image: #2f3c7e;
     margin:60px 0px; 
     text-align: center;
     color:#fff;
@@ -200,7 +200,7 @@ body
 }
 
 .call-action-color {
-    background-image: linear-gradient(to bottom, #202653, #0a1125);
+    background-image: #2f3c7e;
     margin: 60px 0px;
     text-align: center;
     padding-bottom: 50px;
@@ -446,7 +446,7 @@ blockquote::before {
 
 .contact{
     font-family: 'Roboto' !important;
-    background-image: linear-gradient(to bottom, #202653, #0a1125);    
+    background-image: #2f3c7e;    
     display: flex;
 }
 
@@ -706,7 +706,7 @@ body
 .header-div
 {
 	height: 550px;
-    background-image: linear-gradient(to bottom, #202653, #0a1125);
+    background-image: #2f3c7e;
 }
 
 .logo-div a
