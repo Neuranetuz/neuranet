@@ -43,7 +43,7 @@ body
 
 .logo-div a
 {
-    color: limegreen !important;
+    color: #101820ff !important;
     font-size: 40px;
     margin-top: 5px;
 }
@@ -51,14 +51,14 @@ body
 .navbar-nav li:nth-last-child(1) a
 {
     background: #f8f8ff;
-    border: 1px solid limegreen;
+    border: 1px solid #101820ff;
     border-radius: 3px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 .navbar-nav li:nth-last-child(1) a:hover{
-	background-color: limegreen;
+	background-color: #101820ff;
 	color: black;
 }
 
