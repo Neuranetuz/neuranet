@@ -38,7 +38,7 @@ body
 .header-div
 {
     height: 550px;
-    background-image: #2f3c7e;
+    background-image: linear-gradient(#2f3c7e, #2f3c7a);
 }
 
 .logo-div a
